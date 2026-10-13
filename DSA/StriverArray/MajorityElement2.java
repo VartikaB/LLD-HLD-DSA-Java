@@ -1,5 +1,8 @@
 package StriverArray;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int count1 =0;
