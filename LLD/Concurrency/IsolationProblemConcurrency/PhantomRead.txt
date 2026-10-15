@@ -1,0 +1,1 @@
+If a query reads multiple time in a transaction and each query is returning differnt number of rows , then this issue is called as phantom read

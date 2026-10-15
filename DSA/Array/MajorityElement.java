@@ -1,4 +1,4 @@
-package StriverArray;
+package Array;
 
 // https://leetcode.com/problems/majority-element/description/
 

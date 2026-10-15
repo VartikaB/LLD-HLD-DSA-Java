@@ -1,0 +1,1 @@
+assumes data conflicts are likely. Transactions acquire explicit shared or exclusive locks on target records immediately upon reading or updating them, preventing concurrent transactions from accessing or modifying the data until completion. While it guarantees consistency and prevents rollbacks, it reduces concurrency and increases the risk of deadlocks.

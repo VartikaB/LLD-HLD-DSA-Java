@@ -1,0 +1,2 @@
+Reading same row multiple time in a transaction can cause this issue 
+Suppose one txn came and read a row first time , other txn came and updated value of that row , now the first txn is going to read that row again it will get a differnt value 

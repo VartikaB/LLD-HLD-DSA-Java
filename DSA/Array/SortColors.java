@@ -1,4 +1,4 @@
-package StriverArray;
+package Array;
 
 class Solution {
     //Dutch national flag algo

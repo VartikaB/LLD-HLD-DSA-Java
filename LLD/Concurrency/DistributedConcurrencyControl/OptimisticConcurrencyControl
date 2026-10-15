@@ -1,0 +1,1 @@
+assumes data conflicts are rare. Transactions read records without locking them, execute changes in local memory, and check version numbers or timestamps only upon committing. If another transaction modified the data in the meantime, the commit is aborted and retried. It maximizes throughput in read-heavy, low-contention environments.

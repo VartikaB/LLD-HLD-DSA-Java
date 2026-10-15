@@ -5,9 +5,7 @@ public class Main {
         PaymentStrategy cardPayment = new CardPayment();
         PaymentStrategy upi = new UPIPayment();
         cardPayment.pay(100);
-        upi.pay(200);
-
-        
+        upi.pay(200); 
     }
     
 }

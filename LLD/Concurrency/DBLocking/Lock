@@ -1,0 +1,1 @@
+SO for read we go ahead with shared lock , for write we go ahead with exclusive lock in one single transaction 

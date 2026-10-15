@@ -1,4 +1,4 @@
-package StriverArray;
+package Array;
 class Solution {
     public int maxProduct(int[] nums) {
         if(nums.length==1 && nums[0]<0) return nums[0];
