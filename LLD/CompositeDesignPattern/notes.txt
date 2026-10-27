@@ -1,0 +1,3 @@
+Calculator having arithmetic tree operation can also ber performed 
+where tree like structure is formed there we will use composite design pattern
+Any problem statement that can be converted in tree form we know we have to use composite design pattern
